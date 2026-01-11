@@ -1,0 +1,9 @@
+[
+  {
+    "id": "terraria",
+    "name": "Terraria",
+    "download": "https://github.com/AverageTrashGame/vyltrexlaunchergame/releases/download/v6.0/Terraria.zip",
+    "exe": "Terraria.exe",
+    "sha256": "d5cc511fa28c0b55e4c891da5bffd94916a2f82a21854bc4243002c240a82083"
+  }
+]
