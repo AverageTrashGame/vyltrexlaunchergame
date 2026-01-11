@@ -1,0 +1,9 @@
+[
+  {
+    "id": "hollowknight",
+    "name": "Hollow Knight",
+    "download": "https://github.com/AverageTrashGame/vyltrexlaunchergame/releases/download/v4.0/HollowKnight.zip",
+    "exe": "Hollow Knight.exe",
+    "sha256": "db955bb168b1611560309bac20b4f08413de5ed0f85cd6cfb72d33b5115882e4"
+  }
+]
