@@ -1,0 +1,9 @@
+[
+  {
+    "id": "worldbox",
+    "name": "WorldBox",
+    "download": "https://github.com/AverageTrashGame/vyltrexlaunchergame/releases/download/v3.0/WorldBox.zip",
+    "exe": "worldbox.exe",
+    "sha256": "5642dee1db2020ae65f02ce5dc328747a9c304400f642da5c435d5ba7a7a12c4"
+  }
+]
